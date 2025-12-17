@@ -1,8 +1,10 @@
+{
  "data": {
-"character2": {
-      "id": "2",
-      "name": "Morty Smith",
-      "status": "Alive",
-      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
-    }
- }
+ "character2": {
+       "id": "2",
+       "name": "Morty Smith",
+       "status": "Alive",
+       "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+     }
+  }
+}
